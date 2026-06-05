@@ -8,4 +8,4 @@ Matatu routes, SGR booking, NTSA services, and road safety — all in Swahili.
 - ⛽ Daily fuel prices (EPRA)
 ## Data Sources: SGR (krc.co.ke) | NTSA (ntsa.go.ke) | EPRA
 ---
-*gabrielmahia.ai | CC BY-NC-ND 4.0*
+*gabrielmahia.github.io | MIT License*
