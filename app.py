@@ -62,4 +62,4 @@ with tab4:
         st.markdown(f'<div class="s-card">{result.replace(chr(10),"<br>")}</div>', unsafe_allow_html=True)
 
 st.markdown("---")
-st.caption("🚌 Safari AI v1.0 | NTSA: ntsa.go.ke | SGR: krc.co.ke | CC BY-NC-ND 4.0")
+st.caption("🚌 Safari AI v1.0 | NTSA: ntsa.go.ke | SGR: krc.co.ke | MIT")
